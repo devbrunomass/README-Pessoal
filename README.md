@@ -23,5 +23,5 @@ Estudante de Ciência da Computação com vivência prática em negócios, focad
 ---
 
 ### 📫 Conecte-se comigo
-- **LinkedIn:** [linkedin.com/in/devbrunomass](https://www.linkedin.com/in/devbrunomass)
+- **LinkedIn:** [linkedin.com/in/devbrunomass](https://www.linkedin.com/in/brunomass)
 - **GitHub:** [github.com/devbrunomass](https://github.com/devbrunomass)
